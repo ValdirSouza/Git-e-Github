@@ -1,0 +1,9 @@
+# Passo a Passo
+
+1. Copiar o link do repositorio ao qual deseja clonar
+    - Abra o repositorio no GitHub
+    - Em *Code* copie o link
+2. Crie ou abra a pasta onde deseja clonar o repositorio
+3. Com a pasta aberta, abra o Git Bash
+    - digite o codigo **git clone** e o link
+        - git clone => clona o repositorio para maquina

@@ -1,0 +1,10 @@
+1. Abra o **Git Bash** na pasta que deseja atualizar
+2. Digite **git status**
+    - git status => verifa se a informações pendentes ou não
+3. Digite **git add .**
+    - git add . => adiciona todos os arquivos
+4. Após digite **git commit -m "comentário da atualização"
+    - git commit => é para atualizar o controle de versão web
+    - -m => entre aspas o comentário da atualização ou o que foi feito
+5. Após tal ainda não tera atualizado a versão web, é necessário usar o **git push origin main**
+    - git push origin main => envia todos os commit's que estão pendentes na máquina para a nuvem
