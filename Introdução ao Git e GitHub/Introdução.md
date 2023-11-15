@@ -1,13 +1,25 @@
-***Introdução ao Git e ao GitHub***
--O porque aprender uma nova tecnologia-
+# ***Introdução ao Git e ao GitHub***
 
-git é um software que suporta varias pessoas trabalhando em um codigo em até a mesma linha
-software de versionamento de codigo que ajuda a criar e monitorar diferentes versões de codigo
+**Sobre o Git**
 
-Interpretador/copilador de codigo ele aponta erro e solicitaca versões caso erros
+O Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear e <br>
+gerenciar alterações em projetos de software. Ele possibilita a colaboração entre várias pessoas <br>
+no desenvolvimento de código, gerenciando ramificações, mesmo quando as alterações ocorrem <br>
+em locais diferentes ou na mesma linha, independentemente do momento em que são realizadas. <br>
+No entanto, é importante observar que o Git não atua como um interpretador/compilador de código. <br>
+Sua principal função é controlar e versionar o código, enquanto a detecção de erros e a compilação <br>
+são geralmente tratadas por outras ferramentas e ambientes de desenvolvimento.
 
-github não é uma ivenção do linus, ele nasceu do contestamento  por alguns softwares
+O Git foi desenvolvido principalmente para a linha de comando (CLI), e pode ser utilizado tanto por <br>
+meio da linha de comando quanto por interfaces gráficas, proporcionando flexibilidade aos usuários. <br>
+Existem diversas ferramentas gráficas, como o GitKraken, Sourcetree e GitHub Desktop, que facilitam a <br>
+interação com o Git, tornando o processo mais acessível para aqueles que preferem ou necessitam de <br>
+uma interface visual. Portanto, embora o Git possa ser utilizado via CLI, ele também tem opções de <br>
+interface gráfica para tornar a interação mais amigável e acessível a diversos perfis de usuários.
 
+
+
+Github não é uma ivenção do linux, ele nasceu do contestamento de vários desenvolvedores
 github foi desenvolvido pela microsoft e é usado para armazenar o codigo
 
 git e github são tecnologias diferentes
@@ -62,7 +74,7 @@ que esteja no local acessado
 
 Sistema distribuído Seguro - 
 
-#Iniciando o Git
+## Iniciando o Git
  - git init		*inicializa o git (repositorio) dentro da pasta a qual estiver trabalhando o terminal
 	Tracked (arquivos que o git tem ciência dele)
 	  -Unmodified são arquivos que não foram modificados ainda
@@ -104,7 +116,7 @@ Sistema distribuído Seguro -
  - git push origin master	=> envia as informações do repositorio local para o repositorio remoto
 				no feedback do codigo ele informa dados do objetos e o local que foi enviado
 
-#Flask
+## Flask
  - ls -a => mostra arquivos ocultos
  - git pull origin master	=> puxa o conteudo que esta no repositorio remoto
 
