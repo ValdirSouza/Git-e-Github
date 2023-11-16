@@ -6,7 +6,7 @@
 2. Crie ou abra a pasta onde deseja clonar o repositorio
 3. Com a pasta aberta, abra o Git Bash
     - digite o codigo **git clone** e o link
-        - git clone => clona o repositorio para maquina 
+        - git clone => clona o repositorio para maquina
 
 
 
