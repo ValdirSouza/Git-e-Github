@@ -1,20 +1,20 @@
 # ***Introdução ao Git e ao GitHub***
 
-**Sobre o Git**
+## Sobre o Git
 
-O Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear e <br>
-gerenciar alterações em projetos de software. Ele possibilita a colaboração entre várias pessoas <br>
-no desenvolvimento de código, gerenciando ramificações, mesmo quando as alterações ocorrem <br>
-em locais diferentes ou na mesma linha, independentemente do momento em que são realizadas. <br>
-No entanto, é importante observar que o Git não atua como um interpretador/compilador de código. <br>
-Sua principal função é controlar e versionar o código, enquanto a detecção de erros e a compilação <br>
-são geralmente tratadas por outras ferramentas e ambientes de desenvolvimento.
+O Git é um sistema de controle de versão distribuído amplamente utilizado para rastrear e  
+gerenciar alterações em projetos de software. Ele possibilita a colaboração entre várias pessoas  
+no desenvolvimento de código, gerenciando ramificações, mesmo quando as alterações ocorrem  
+em locais diferentes ou na mesma linha, independentemente do momento em que são realizadas.  
+No entanto, é importante observar que o Git não atua como um interpretador/compilador de  
+código. Sua principal função é controlar e versionar o código, enquanto a detecção de erros e a  
+compilação são geralmente tratadas por outras ferramentas e ambientes de desenvolvimento.
 
-O Git foi desenvolvido principalmente para a linha de comando (CLI), e pode ser utilizado tanto por <br>
-meio da linha de comando quanto por interfaces gráficas, proporcionando flexibilidade aos usuários. <br>
-Existem diversas ferramentas gráficas, como o GitKraken, Sourcetree e GitHub Desktop, que facilitam a <br>
-interação com o Git, tornando o processo mais acessível para aqueles que preferem ou necessitam de <br>
-uma interface visual. Portanto, embora o Git possa ser utilizado via CLI, ele também tem opções de <br>
+O Git foi desenvolvido principalmente para a linha de comando (CLI), e pode ser utilizado tanto por  
+meio da linha de comando quanto por interfaces gráficas, proporcionando flexibilidade aos usuários.  
+Existem diversas ferramentas gráficas, como o GitKraken, Sourcetree e GitHub Desktop, que facilitam a  
+interação com o Git, tornando o processo mais acessível para aqueles que preferem ou necessitam de  
+uma interface visual. Portanto, embora o Git possa ser utilizado via CLI, ele também tem opções de  
 interface gráfica para tornar a interação mais amigável e acessível a diversos perfis de usuários.
 
 
